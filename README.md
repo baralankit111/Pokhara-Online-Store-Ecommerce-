@@ -11,6 +11,7 @@ This is an Ecommerce web site based on Html, CSS, Java Script > in Electronic Ga
  
  ![image](https://github.com/baralankit111/Pokhara-Online-Store-Ecommerce-/assets/128990465/87656c3b-e212-4f84-99b3-5ed08106612f)
 
+![image](https://github.com/baralankit111/Pokhara-Online-Store-Ecommerce-/assets/128990465/9edd6854-be19-4faa-ad08-0f70c35d9cba)
 
  
 
